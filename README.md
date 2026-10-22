@@ -47,7 +47,6 @@ Edit the action line containing the ID; preserve `chain` and other actions.
 Keep helpers **88295**, **88296**, **88300**, **88302**, **88303**, **88309**, and
 response rule **88310** as `pass`.
 
-Effective `DetectionOnly` suppresses `deny`. No engine override is included.
 
 ## References
 
